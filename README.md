@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**SmallCityProgrammer/SmallCityProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Aos meus 25 anos, estou mergulhado nos 
+estudos de programação, cheio de vontade 
+de aprender e descobrir coisas novas. Foi 
+aos 24 que esbarrei no incrível mundo da 
+programação, e desde então, não consigo 
+deixar de pensar como seria bom se tivesse 
+conhecido isso antes. Atualmente, meus dias 
+são dedicados a estudar programação, 
+explorar diferentes projetos e ficar por 
+dentro de todas as novidades tecnológicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/MySQL-00006E?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
