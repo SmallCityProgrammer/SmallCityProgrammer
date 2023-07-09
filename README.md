@@ -7,7 +7,7 @@ Me chamo Eliezer Castro, sou desenvolvedor de front-end apaixonado e entusiasta 
 ```JavaScript
 const Me = person();
 while (Me.awake() === true) {
-  Me.work();
+  Me.code();
 }
 ```
 <br>
@@ -34,7 +34,7 @@ I'm Eliezer Castro, a passionate front-end developer and tech enthusiast. I'm cu
 ```JavaScript
 const Me = person();
 while (Me.awake() === true) {
-  Me.work();
+  Me.code();
 }
 ```
 <br>
