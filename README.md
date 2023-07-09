@@ -29,6 +29,15 @@ Eu adoro trabalhar no frontend porque isso me permite combinar minha criatividad
 # 👋 Hi there
 
 I'm Eliezer Castro, a passionate front-end developer and tech enthusiast. I'm currently looking for a job as a web developer. </br>
+<br>
+
+```JavaScript
+const Me = person();
+while (Me.awake() === true) {
+  Me.work();
+}
+```
+<br>
 
 # 🚀 Expertise
 
