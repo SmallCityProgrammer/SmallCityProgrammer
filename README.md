@@ -2,6 +2,17 @@
 
 Me chamo Eliezer Castro, sou desenvolvedor de front-end apaixonado e entusiasta de tecnologia. Atualmente, estou procurando um emprego como desenvolvedor. </br>
 
+<br>
+
+```JavaScript
+const Me = person();
+while (Me.awake() === true) {
+  Me.work();
+}
+```
+<br>
+
+
 # 🚀 Experiência
 
 Meu foco principal está no desenvolvimento frontend, onde me especializo na criação de aplicações web interativas e amigáveis ao usuário. Tenho conhecimento em HTML, CSS e JavaScript. </br>
