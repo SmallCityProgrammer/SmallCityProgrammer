@@ -1,13 +1,13 @@
-# 👋 Olá/Hi there
+# 👋 Olá/Hi
 
 ## Português
 
-Me chamo Eliezer Castro, sou desenvolvedor de front-end apaixonado e entusiasta de tecnologia. Atualmente, estou procurando um emprego como desenvolvedor. </br>
+Me chamo Eliezer Castro, sou estudante de Analise e Desenvolvimento de sistemas e futuro FullStack. Entusiasta de tecnologia. Atualmente, estou procurando um emprego como desenvolvedor. </br>
 <hr>
 
 ## English
 
-I'm Eliezer Castro, a passionate front-end developer and tech enthusiast. I'm currently looking for a job as a web developer. </br>
+My name is Eliezer Castro, i'm a student of System Analysis and Development and a future FullStack dev. Tech enthusiast. I'm currently looking for a job as a developer. </br>
 <br>
 
 
