@@ -7,7 +7,7 @@ Me chamo Eliezer Castro, sou estudante de Analise e Desenvolvimento de sistemas 
 
 ## English
 
-My name is Eliezer Castro, i'm a student of System Analysis and Development and a future FullStack dev. Tech enthusiast. I'm currently looking for a job as a developer. </br>
+My name is Eliezer Castro, i'm a student of System Analysis and Development and a future FullStack dev. I'm currently looking for a job as a developer. </br>
 <br>
 
 
