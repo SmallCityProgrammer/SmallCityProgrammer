@@ -12,7 +12,7 @@ My name is Eliezer Castro, i'm a student of System Analysis and Development. I'm
 
 
 ```JavaScript
-const Me = person();
+const Me = programmer();
 while (Me.awake() === true) {
   Me.code();
 }
