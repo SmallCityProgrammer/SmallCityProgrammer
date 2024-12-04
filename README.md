@@ -1,5 +1,3 @@
-# 👋 Olá/Hi
-
 ## Português
 
 Me chamo Eliezer Castro, sou estudante de Analise e Desenvolvimento de sistemas. Sou um entusiasta da tecnologia, atualmente trabalhando como desenvolvedor web .NET</br>
